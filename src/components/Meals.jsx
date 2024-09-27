@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Mealitem from "./Mealitem";
+import Mealitem from "./Mealitem.jsx";
 
 const Meals = () => {
   const [loadedMeals, setLoadedMeals] = useState([]);
