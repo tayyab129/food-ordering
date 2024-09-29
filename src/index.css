@@ -108,8 +108,8 @@ h1 {
 }
 
 .error {
-  background-color: #f28b82; /* Light pink background */
-  color: #8b0000; /* Dark maroon text */
+  background-color: #f28b82; 
+  color: #8b0000; 
   padding: 10px;
   border-radius: 5px;
   max-width: 400px;
@@ -300,6 +300,10 @@ h1 {
   #main-header button {
     font-size: 16px;
     margin-top: 10px;
+  }
+
+  .error{
+    max-width: 300px;
   }
 }
 
